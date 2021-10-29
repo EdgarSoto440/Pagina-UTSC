@@ -1,0 +1,35 @@
+#banner {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.content-inicio {
+    margin-bottom: 150px;
+}
+
+#t_carreras {
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.carta {
+    border: 1px solid #000000;
+    text-align: center;
+    height: 100px;
+}
+
+#banner2 {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    text-align: inherit;
+}
+
+#info {
+    padding: 50px;
+    background: rgba(0, 139, 139, 0.884);
+    color: white;
+}
